@@ -4,7 +4,7 @@
 	text-align:center;
 	
 }
-#a1{
+.book{
 	width:200px;
 	 justify-content: space-between;
 }
@@ -18,7 +18,7 @@
 	text-align:center;
 	color:#f8f8f8;
 }
-#a2{
+.book1{
 	width:200px;
 }
 #author2{
@@ -27,7 +27,7 @@
 	font-size:small;
 	
 }
-#a3{
+.book2{
 	width:200px;
 }
 #author3{
