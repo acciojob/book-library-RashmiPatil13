@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.book-library{
+	background-color:#f8f8f8;
+	text-align:center;
+	
+}
+#a1{
+	width:200px;
+	 justify-content: space-between;
+}
+#author1{
+	color:#777777;
+	width:200px;
+	
+}
+#price1{
+	background-color:#2ecc71;
+	text-align:center;
+	color:#f8f8f8;
+}
+#a2{
+	width:200px;
+}
+#author2{
+	color:#777777;
+	width:200px;
+	font-size:small;
+	
+}
+#a3{
+	width:200px;
+}
+#author3{
+	color:#777777;
+	width:200px;
+	font-size:small;
+	
+}
