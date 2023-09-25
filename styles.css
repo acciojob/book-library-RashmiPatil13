@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .book-library{
-	background-color:#f8f8f8;
+	background-color:#ffffff;
 	text-align:center;
 	
 }
@@ -18,7 +18,7 @@
 	text-align:center;
 	color:#f8f8f8;
 }
-.book1{
+.book{
 	width:200px;
 }
 #author2{
@@ -27,7 +27,7 @@
 	font-size:small;
 	
 }
-.book2{
+.book{
 	width:200px;
 }
 #author3{
